@@ -2,7 +2,7 @@ module network-monitor
 
 go 1.23.0
 
-toolchain go1.25.0
+toolchain go1.25.1
 
 require (
 	github.com/go-ole/go-ole v1.3.0
