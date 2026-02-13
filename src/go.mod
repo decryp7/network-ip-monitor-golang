@@ -6,5 +6,5 @@ toolchain go1.25.7
 
 require (
 	github.com/go-ole/go-ole v1.3.0
-	golang.org/x/sys v0.40.0
+	golang.org/x/sys v0.41.0
 )
